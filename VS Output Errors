@@ -1,0 +1,388 @@
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\build\x64\Debug\OpenPoseDemo.exe'. Symbols loaded.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\build\x64\Debug\openposed.dll'. Symbols loaded.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\fltLib.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\gflagsd.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\opencv\x64\vc14\bin\opencv_world411.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\comdlg32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\glogd.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\caffe.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.1304_none_557670e9265f1405\comctl32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\concrt140.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mf.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfreadwrite.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\boost_thread-vc141-mt-x64-1_69.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\glog.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\gflags.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\caffehdf5_hl.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\cudart64_100.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\curand64_100.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\cublas64_100.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin\cudnn64_7.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libopenblas.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\caffehdf5.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\boost_filesystem-vc141-mt-x64-1_69.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libgcc_s_seh-1.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libgfortran-3.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libgfortran-3.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\caffezlib1.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfcore.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ksuser.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libgfortran-3.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Users\napower\Desktop\Autonomous Drone CI\Tello\openpose-master\3rdparty\windows\caffe\bin\libquadmath-0.dll'. Module was built without symbols.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. Cannot find or open the PDB file.
+The thread 0x3c2c has exited with code 0 (0x0).
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\CompPkgSup.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\FSClient.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfsensorgroup.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Media.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\vidcap.ax'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\Kswdmcap.ax'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfc42.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\policymanager.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvcp110_win.dll'. Cannot find or open the PDB file.
+Exception thrown at 0x00007FFCD2CCA388 (KernelBase.dll) in OpenPoseDemo.exe: WinRT originate error - 0xC00D36B3 : 'The stream number provided was invalid.'.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryPS.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\capauthz.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\Intel\Media SDK\mfx_mft_mjpgvd_64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dxva2.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvldumdx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\imagehlp.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvwgf2umx.dll'. Cannot find or open the PDB file.
+The thread 0x3f28 has exited with code 0 (0x0).
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvwgf2umx.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvldumdx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvldumdx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvwgf2umx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll'. Cannot find or open the PDB file.
+The thread 0x1818 has exited with code 0 (0x0).
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll'
+The thread 0x3bf8 has exited with code 0 (0x0).
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvwgf2umx.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvldumdx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igdusc64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd11dxva64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igdusc64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\setupapi.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd11dxva64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ntasn1.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd64.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igdusc64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd11dxva64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfmjpegdec.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\mfperfhelper.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igdusc64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ntasn1.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dwmapi.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\d3d9.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dxva2.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dxva2.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igdusc64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igdusc64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ntasn1.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dwmapi.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\d3d9.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dxva2.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dxva2.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\igdusc64.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_2c7c773e20d8bcfa\nvinitx.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igdusc64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ntasn1.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd64.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dwmapi.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\d3d9.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\dxva2.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Program Files\Intel\Media SDK\libmfxhw64.dll'
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\msvproc.dll'. Cannot find or open the PDB file.
+Exception thrown at 0x00007FFCD2CCA388 (KernelBase.dll) in OpenPoseDemo.exe: WinRT originate error - 0xC00D36B3 : 'The stream number provided was invalid.'.
+Exception thrown at 0x00007FFCD2CCA388 (KernelBase.dll) in OpenPoseDemo.exe: WinRT originate error - 0xC00D3704 : 'Hardware MFT failed to start streaming due to lack of hardware resources.'.
+Exception thrown at 0x00007FFCD2CCA388 (KernelBase.dll) in OpenPoseDemo.exe: WinRT originate error - 0xC00D3704 : 'Hardware MFT failed to start streaming due to lack of hardware resources.'.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\nvcuda.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Loaded 'C:\Windows\System32\nvfatbinaryLoader.dll'. Cannot find or open the PDB file.
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\nvfatbinaryLoader.dll'
+'OpenPoseDemo.exe' (Win32): Unloaded 'C:\Windows\System32\nvcuda.dll'
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C5992B280.
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C59928640.
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C59925A00.
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C59922DC0.
+The thread 0xa04 has exited with code 0 (0x0).
+The thread 0x31d0 has exited with code 0 (0x0).
+The thread 0x3ad0 has exited with code 0 (0x0).
+The thread 0xc7c has exited with code 0 (0x0).
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C59920130.
+Exception thrown at 0x00007FFCD2CCA388 in OpenPoseDemo.exe: Microsoft C++ exception: std::runtime_error at memory location 0x0000008C5991D4C0.
+The thread 0x2eac has exited with code -1 (0xffffffff).
+The thread 0x38ac has exited with code -1 (0xffffffff).
+The thread 0x2dc8 has exited with code -1 (0xffffffff).
+The thread 0x1464 has exited with code -1 (0xffffffff).
+The thread 0x3350 has exited with code -1 (0xffffffff).
+The thread 0x3ecc has exited with code -1 (0xffffffff).
+The thread 0x3d14 has exited with code -1 (0xffffffff).
+The thread 0x3d3c has exited with code -1 (0xffffffff).
+The thread 0x2884 has exited with code -1 (0xffffffff).
+The thread 0x3ee4 has exited with code -1 (0xffffffff).
+The thread 0x2ffc has exited with code -1 (0xffffffff).
+The thread 0x2db4 has exited with code -1 (0xffffffff).
+The thread 0x3d88 has exited with code -1 (0xffffffff).
+The thread 0x1590 has exited with code -1 (0xffffffff).
+The thread 0x26e4 has exited with code -1 (0xffffffff).
+The thread 0x336c has exited with code -1 (0xffffffff).
+The program '[15472] OpenPoseDemo.exe' has exited with code -1 (0xffffffff).
